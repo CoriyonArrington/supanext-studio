@@ -1,0 +1,11 @@
+/* src/app/globals.css */
+
+/*
+  Global styles can be added here, but Chakra's ResetCSS and theme
+  will handle most base styling and dark mode logic.
+*/
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
